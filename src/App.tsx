@@ -1,13 +1,14 @@
 import { Bookmark } from "lucide-react";
 import "./App.css";
 
+
 function App() {
   return (
     <div className="parent">
       <h1>hello this is the mini project of the props</h1>
 
       {/* ✅ ADD HERE */}
-      {/* <User /> */}
+      {/* <user/> */}
 
       <div className="king">
         <ul>
